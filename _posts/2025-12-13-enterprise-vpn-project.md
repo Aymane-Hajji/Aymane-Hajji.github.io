@@ -22,7 +22,7 @@ The primary objective was to establish encrypted connectivity between private LA
 The solution leverages VyOS open-source routers, OSPF dynamic routing for the underlay network, and a policy-based IPSec VPN for the overlay tunnel.
 
 ---
-
+![Network Topology Diagram](/assets/images/topology.png)
 ## 2. Technical Scope & Architecture
 
 ### 2.1 Design Overview
