@@ -1,11 +1,11 @@
 ---
-title: "Enterprise Site-to-Site IPSec VPN Implementation (VyOS) — Part 1"
+title: "Enterprise Site-to-Site IPSec VPN Implementation (VyOS)"
 date: 2025-12-13
 author: Aymane Aboukhaira
 status: Deployed / Operational
 ---
 
-# Enterprise Site-to-Site IPSec VPN Implementation (Part 1)
+# Enterprise Site-to-Site IPSec VPN Implementation 
 
 Date: 13 December 2025  
 Author: Aymane Aboukhaira  
