@@ -182,7 +182,6 @@ Tracing route to 10.4.4.44 over a maximum of 30 hops:
 ```
 Conclusion: The intermediate routers (hops 2 and 3 in a normal trace) are invisible, confirming that traffic is successfully traversing the encrypted tunnel.
 
-(Note: Replace /assets/images/traceroute.png with the actual path to your screenshot)
 
 6. Challenges Encountered and Resolutions
 During the implementation phase, several critical issues were encountered and resolved:
