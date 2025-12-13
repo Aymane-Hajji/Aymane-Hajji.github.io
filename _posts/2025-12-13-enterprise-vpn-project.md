@@ -56,7 +56,7 @@ Overlay Network (VPN / Security Layer)
 
 ### 3.1 Topology Diagram
 
-![Network Topology Diagram](/assets/images/topology.png)
+![Network Topology Diagram](/assets/images/topology.webp)
 
 ---
 
