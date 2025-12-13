@@ -22,7 +22,6 @@ The primary objective was to establish encrypted connectivity between private LA
 The solution leverages VyOS open-source routers, OSPF dynamic routing for the underlay network, and a policy-based IPSec VPN for the overlay tunnel.
 
 ---
-![Network Topology Diagram](/assets/images/topology.png)
 ## 2. Technical Scope & Architecture
 
 ### 2.1 Design Overview
@@ -57,7 +56,7 @@ Overlay Network (VPN / Security Layer)
 
 ### 3.1 Topology Diagram
 
-Insert topology diagram image here (physical links + IPSec tunnel overlay).
+![Network Topology Diagram](/assets/images/topology.png)
 
 ---
 
@@ -113,7 +112,7 @@ Hash: SHA-256
 Diffie-Hellman Group: 14 (2048-bit modulus)
 
 Lifetime: 28800 seconds
-
+--------
 ESP Phase 2:
 
 Encryption: AES-256
