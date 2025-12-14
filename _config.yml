@@ -210,3 +210,24 @@ jekyll-archives:
   permalinks:
     tag: /tags/:name/
     category: /categories/:name/
+
+# -----------------------------------------------------------------------------
+# Configuration for sidebar navigation tabs (Required for external links)
+# -----------------------------------------------------------------------------
+tab_pages:
+  - title: Home
+    url: /
+  - title: Categories
+    url: /categories/
+  - title: Tags
+    url: /tags/
+  - title: Archives
+    url: /archives/
+  - title: About
+    url: /about/
+  # --- YOUR EXTERNAL RESUME LINK ---
+  - title: Resume 
+    icon: fas fa-address-card
+    url: https://aymane-hajji.github.io/CVfr/
+    external_url: true
+    order: 6 # Use a high number like 6 to ensure it's at the bottom
