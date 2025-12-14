@@ -1,10 +1,16 @@
 ---
-# This determines the order in the navigation bar
+# The tab title displayed in the sidebar
 title: Resume
-icon: fa-solid fa-address-card # You can try different icons here
-# Use the 'url' property to link directly to your CV site
+
+# The icon to display (already working based on your screenshot)
+icon: fas fa-address-card
+
+# IMPORTANT: Use 'url' for the external link
 url: https://aymane-hajji.github.io/CVfr/
-# Set this to true to open the link in a new tab/window
-external_url: true 
-order: 4 # Adjust this number to place it where you want (e.g., 4 after Home, Posts, About)
+
+# OPTIONAL: Add 'external_url: true' to make it open in a new tab
+external_url: true
+
+# The order in the sidebar (adjust as needed)
+order: 6 
 ---
