@@ -4,7 +4,7 @@ date: 2026-01-09
 author: Aymane Aboukhaira
 status: Completed
 ---
----
+
 
 # Installation et configuration de GLPI 10 sur CentOS Stream 9
 
@@ -313,9 +313,4 @@ Ce projet a permis de :
 * Sécuriser un serveur Linux
 * Appliquer les bonnes pratiques d’administration systèmes
 
----
-
-🎉 **GLPI 10 est maintenant opérationnel et sécurisé sur CentOS Stream 9.**
-
-```
 
